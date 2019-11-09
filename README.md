@@ -1,4 +1,17 @@
-# merc
+# Merchandise distribution system
+
+# About
+
+A web based portal to assist the process of distribution of our campus merchandise easier and more legitimate.
+Primary focus of the portal was to verify, confirm and update the status of delivery of the merchandise.
+
+# Contributers:
+
+* Naveen Kumar Bathula
+
+* Vamsi Gottipati
+
+* Suraj Thotakura
 
 ## Project setup
 ```
